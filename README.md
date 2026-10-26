@@ -10,9 +10,6 @@ Email Me 👉 ✉️ **dhirajyadavt0555@gmail.com** For Collaboration/Project or
 - 😄 **Pronouns:** Dhiraj Kumar
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhirajyadavt0555-creator&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 - 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhirajyadavt0555@gmail.com) 
@@ -29,9 +26,6 @@ Email Me 👉 ✉️ **dhirajyadavt0555@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.shion.dev/api?username=dhirajyadavt0555-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dhirajyadavt0555-creator&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhirajyadavt0555-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhirajyadavt0555-creator&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
