@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **dhirajyadavt0555@gmail.com** For Collaboration/Project or
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Cloud
-  - 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dhirajyadavt0555@gmail.com
 - 😄 **Pronouns:** Dhiraj Kumar
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
